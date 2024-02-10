@@ -43,6 +43,7 @@ For further assistance or troubleshooting, refer to [Google's support documentat
 
 
 # Additional Links:
-
+- [Understanding Api Responses] (/understaning%20api%20responses.md)
+- [Playing with the Api](/cubeton mailapp.md)
 - Some users - if they've done this before, can [click on this link](https://accounts.google.com/signin/v2/challenge/pk/presend?TL=AHNYTISyxZxdow8C2FbLUMXAFKJq8Kho3poCRyNprsLT3kNYqQe7GdmuR9-nGGzH&cid=1&continue=https%3A%2F%2Fmyaccount.google.com%2Fapppasswords&ifkv=ASKXGp0Kv3PQhjhZVzHn1TCnjbSWzSgcbN0LWyAf1AmKvUlGSCEmfZlf3qWt22cSssEJN8RakQesJw&rart=ANgoxcfCVAk3qaLNBRSmm-zzJGc8ij147P1HsZj9DceWu_hKb8v_3IsACE2_clmN6F_WKu7-r4tj4DqMIbyj8bWZh3Nxbwaam2jGJLs7CQDG9qR0uqtum-Y&rpbg=1&sarp=1&scc=1&service=accountsettings&theme=glif&flowName=GlifWebSignIn&flowEntry=ServiceLogin) to be directly redirected to the page for generating app password (make sure to choose the correct account on Google's login page).
 - [This page](https://security.google.com/settings/security/apppasswords?utm_source=OGB&pli=1) is direct access to the app passwords page for Google account (compatible only for some users)
