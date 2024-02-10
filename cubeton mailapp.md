@@ -6,7 +6,7 @@
 
 Send an email using the Cubeton Mailapp API.
 
-**Endpoint**: `[https://mailapp.cubeton.cloud/api](https://mailapp.cubeton.cloud/api)`
+**Endpoint**: [https://mailapp.cubeton.cloud/api](https://mailapp.cubeton.cloud/api)
 
 **HTTP Method**: `POST`
 
@@ -34,7 +34,7 @@ Send an email using the Cubeton Mailapp API.
 
 **Example 1 (using curl)** :
 
-```plain
+```sh
 curl -X POST -H "Content-Type: application/json" -H "Authorization: Bearer <your auth token from dashboard>" -d '{"mail":"receiver email", "subject:": "Subject of email", "body": "body of email, HTML supported", "enableAds": true}' https://mailapp.cubeton.cloud/api
 ```
 
@@ -85,7 +85,7 @@ HTTP.post({
 
 **Example 4 (RUBY)**:
 
-```plaintext
+```ruby
 require 'net/http'
 require 'uri'
 require 'json'
@@ -112,7 +112,7 @@ puts response.body
 
 **Example 5 (PHP):**
 
-```plain
+```php
 <?php
 $url = 'https://mailapp.cubeton.cloud/api';
 $data = array(
